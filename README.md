@@ -10,7 +10,7 @@ SMSified is a simple REST SMS API, built to uniquely enable developers to create
 
 When you sign up, you automatically receive $20 in credit and one free phone number; this allows you to both receive and send free SMS messages while testing. When the credit runs out, just add a credit card for billing and you're live - but you get to keep the phone number for free! Check out our pricing page for more information.
 
-More info here: [SMSified API Docs](http://smsified.eng.voxeo.com/docs)
+More info here: [SMSified API Docs](http://www.smsified.com/sms-api-documentation)
 
 Sending Outbound SMS Messages
 -----------------------------
