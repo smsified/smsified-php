@@ -148,7 +148,7 @@ class SMSified {
 	    	throw new SMSifiedException('An error occurred: '.$error);
 		 } else {
 		 	if (substr($curl_http_code, 0, 2) != '20') {
-		     throw new SMSifiedException('An error occurred: Invalid HTTP response returned: '.$curl_http_code);
+		     throw new SMSifiedException('An error occurred: http_code: '.$curl_http_code.' error:'.$result);
 		    }
 		  return $result;
 		 }		
